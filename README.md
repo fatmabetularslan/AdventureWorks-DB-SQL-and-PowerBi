@@ -97,6 +97,7 @@ Yıllara ve çeyrek dilimlere göre satışların grafiklerle analizi.
 
 4. **Bölge Bazlı Analizler (Territory Performance)**  
    - Bölgelere göre satış ve sipariş performansı çubuk grafik ve çizgi grafik kombinasyonlarıyla.  
+![image](https://github.com/user-attachments/assets/b9d91e3b-1aaa-48f7-878d-7bc5b0302ddc)
 
 ---
 
