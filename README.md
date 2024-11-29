@@ -99,7 +99,9 @@ Yıllara ve çeyrek dilimlere göre satışların grafiklerle analizi.
    - Bölgelere göre satış ve sipariş performansı çubuk grafik ve çizgi grafik kombinasyonlarıyla.
 
    
-![image](https://github.com/user-attachments/assets/b1d6834a-ec37-412e-a198-a428731eb48e)
+![image](https://github.com/user-attachments/assets/6840513e-adab-4df8-aa60-5071a865e568)
+
+
 
 ---
 
