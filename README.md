@@ -95,9 +95,13 @@ Toplam satışlar, toplam siparişler, hedef gerçekleştirme oranı, satış he
    
 
 ![image](https://github.com/user-attachments/assets/77175f5b-b427-44bf-8098-f5d2ffe6e698) 
-![image](https://github.com/user-attachments/assets/e69779dc-4a1c-47c4-8fca-0d4bf3d2550a)
 
 **Bölgesel Analiz:** Farklı bölgelerdeki satış ve sipariş performansını karşılaştırır.
+
+
+![image](https://github.com/user-attachments/assets/e69779dc-4a1c-47c4-8fca-0d4bf3d2550a)
+
+
 
 
 
